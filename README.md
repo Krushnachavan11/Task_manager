@@ -25,12 +25,6 @@ A clean, beginner-friendly **Task Manager** built with the **MERN stack (MongoDB
 
 ---
 
-## 📸 Screenshots
-
-![Task Manager Screenshot]
-
-![Pic one](https://github.com/user-attachments/assets/c0d8370d-029d-483a-96dd-d947a2d818a6)
-
 
 ---
 

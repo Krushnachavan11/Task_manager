@@ -26,14 +26,21 @@ A clean, beginner-friendly **Task Manager** built with the **MERN stack (MongoDB
 ---
 
 
----
+🧑‍💻 Author
+Krushna Chavan
 
-## 🚀 Getting Started
+LinkedIn
+
+GitHub
+
+📜 License
+This project is licensed for learning and portfolio demonstration purposes.
+
+🙏 Support
+If you find this project helpful:
+
+⭐ Star this repository
+
+Share it with your peers for learning
 
 
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/yourusername/mern-task-manager.git
-cd mern-task-manager

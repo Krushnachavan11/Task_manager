@@ -1,0 +1,40 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin: 0px 0px 5px 0px;
+    background: rgb(224, 45, 224);
+    color: white;
+
+    
+font-family: "Arimo", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+.logo{
+  font-size: 20px;
+  font-weight: 700;
+}
+.navitems > ul > li{
+      font-size: 15px;
+    font-weight: 700;
+}
+
+.navitems > ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 30px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.navitems > ul >li:hover{
+cursor: pointer;
+      font-size: 15px;
+    font-weight: 800;
+    transition: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
